@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robota&pause=1000&color=39F711&center=true&random=false&width=435&lines=Hello;I+am+Ayan+Sayyad;Full+Stack+Developer;Cyber+Security+Analyst;Network+Security+Engineer" alt="Typing SVG" /></a>
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node.js,mangodb,c,cpp,py,aws,gcp,azure,docker,git,codepen,kali,linux,vscode,figma,canva&theme=light)](https://skillicons.dev)
 
 
 ### :fire: My Stats :
